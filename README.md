@@ -1,2 +1,2 @@
-# LearnToJAX
-Learning JAX library for future research
+# Learning JAX
+Learning the JAX library for future research
